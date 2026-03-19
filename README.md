@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📊 Fintech Loan Analysis Dashboard (BigQuery + Looker)
 
 ## 🚀 Project Overview
@@ -152,7 +151,3 @@ This project was completed as part of a guided capstone, where I independently i
 ---
 
 ✨ Thank you for checking out this project!
-=======
-# Fintech-loan-analysis-BigQuery-Looker-
-Fintech loan data analysis using BigQuery and Looker – SQL-based data transformation, dashboard creation, and business insights.
->>>>>>> 96632190ccb4cb7b8658bac1307a83f15a0a04c3
